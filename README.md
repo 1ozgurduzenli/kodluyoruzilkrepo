@@ -17,5 +17,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
    - pull requestler kabul edilir. büyük değişiklikler için. lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açın,
   ## license
   - MIT
-   '''https://picsum.photos/200/300
-   '''
+ https://picsum.photos/200/300
+ 
